@@ -16,7 +16,7 @@
 <details>
   <summary>:zap: GitHub İstatistiklerim</summary>
 
-  <img align="left" alt="Panda'nın Github İstatistikleri" src="https://github-readme-stats.codestackr.vercel.app/api?klorw=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Panda'nın Github İstatistikleri" src="https://github-readme-stats.codestackr.vercel.app/api?klorw=klorw&show_icons=true&hide_border=true" />
 
 </details>
 
