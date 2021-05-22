@@ -11,18 +11,6 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="panda Spotify Dinliyor" width="350" />](https://open.spotify.com/user/panda)
 
-### İletişim
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/klorw" />][Github]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="discord.gg/sadqdqwesadqwe" />][Discord]
-
-<br />
-
-
-<br />
-<br />
-
----
 
 
 <details>
